@@ -17,7 +17,7 @@ global.netrw_banner = 0 -- Hide banner
 -- vim.g.netrw_list_hide = (vim.fn["netrw_gitignore#Hide"]()) .. [[,\(^\|\s\s\)\zs\.\S\+]] -- use .gitignore
 
 -- Set to true if you have a Nerd Font installed
-global.have_nerd_font = false
+global.have_nerd_font = true
 
 -- Disable smooth scroll (shit sucks)
 opt.smoothscroll = false
